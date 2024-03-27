@@ -5,12 +5,12 @@ Sp24_61608_Group 7
 
 ## Team Members:
 
-1. Rohan Kothari [@Rohank66](https://github.com/Rohank66/MIST4610-GP-1.git)
-2. Sedat Akgun [@sedatakgun](https://github.com/sedatakgun/MIST4610-GP-1.git)
+1. Rohan Kothari [@Rohank66](https://github.com/Rohank66)
+2. Sedat Akgun [@sedatakgun](https://github.com/sedatakgun)
 3. Tharini R.K. 
-4. Ruhi Shirke
-5. Rachel Kim [@rachelkim816](https://github.com/rachelkim816/MIST4610-GP-1.git)
-6. Danielle LaDuca [@danijlad](https://github.com/danijlad/MIST4610-GP-1.git)
+4. Ruhi Shirke [@rushirke](https://github.com/rushirke)
+5. Rachel Kim [@rachelkim816](https://github.com/rachelkim816)
+6. Danielle LaDuca [@danijlad](https://github.com/danijlad)
 
 ## Problem Description:
 
