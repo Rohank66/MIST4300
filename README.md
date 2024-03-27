@@ -7,7 +7,7 @@ Sp24_61608_Group 7
 
 1. Rohan Kothari [@Rohank66](https://github.com/Rohank66)
 2. Sedat Akgun [@sedatakgun](https://github.com/sedatakgun)
-3. Tharini R.K. 
+3. Tharini R.K. [@tr64311](https://github.com/tr64311)
 4. Ruhi Shirke [@rushirke](https://github.com/rushirke)
 5. Rachel Kim [@rachelkim816](https://github.com/rachelkim816)
 6. Danielle LaDuca [@danijlad](https://github.com/danijlad)
