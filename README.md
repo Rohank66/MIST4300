@@ -30,10 +30,10 @@ Our club’s scheduling is captured through the MatchSchedule and PracticeBlocks
 
 The EquipmentSets entity tracks the inventory of sports equipment indicating a many to one relationship with PracticeSchedule. This shows that while multiple practice sessions may use the same set of equipment, only one equipment set is used each practice. Each equipment set includes, quantity of pieces, purchase date, and the skill level associated with the kit.
 
-Finally, facilities management is addressed through Facility, Fields, and GameStaff entities. Facility represents the club's physical infrastructure, linked to Fields to show the specific playing and practice areas within the facility. GameStaff is connected to Facilities through a one to many relationship, illustrating that the facility employs several staff members, while each staff member is associated with the one facility. Within GameStaff includes, first name, last name, and the job title for the staff. 
+Finally, facilities management is addressed through Facility, Fields, and GameStaff entities. Facility represents the club's physical infrastructure, linked to Fields to show the specific playing and practice areas within the facility. GameStaff is connected to Facilities through a one to many relationship, illustrating that the facility employs several staff members, while each staff member is associated with the one facility. Within GameStaff includes, first name, last name, job title, salary, streetAddress, and zip entities.
 
 
-<img width="850" alt="Screenshot 2024-03-27 at 11 59 25 AM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/4c98178e-02a7-41af-9bf0-dc3cdec17465">
+<img width="791" alt="Screenshot 2024-03-27 at 9 44 51 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/ffdc2a07-924f-4bec-a0f0-4a77023c5002">
 
 
 
@@ -41,7 +41,7 @@ Finally, facilities management is addressed through Facility, Fields, and GameSt
 
 <img width="710" alt="Screenshot 2024-03-27 at 12 09 44 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/101defdd-2798-4b47-936a-9a8ebe19dc36">
 
-<img width="694" alt="Screenshot 2024-03-27 at 12 46 38 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/39d6764e-223d-4b17-a1fc-fdbc29ae279a">
+<img width="693" alt="Screenshot 2024-03-27 at 9 37 32 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/732ca125-39a0-4f92-a3d5-81086be0fdc5">
 
 <img width="721" alt="Screenshot 2024-03-27 at 12 14 53 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/13284f5a-1c18-42e0-9f6b-9179cc9ee63e">
 
@@ -51,17 +51,18 @@ Finally, facilities management is addressed through Facility, Fields, and GameSt
 
 <img width="697" alt="Screenshot 2024-03-27 at 12 16 04 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/1bdd4187-4cb0-4bc9-88e8-aa9c55c2f07f">
 
-<img width="695" alt="Screenshot 2024-03-27 at 12 16 30 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/488f0e74-ec9c-45db-bce9-e9193474c276">
+<img width="692" alt="Screenshot 2024-03-27 at 9 44 19 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/b17df084-9c43-41e2-9ea7-da9bee5b1818">
 
-<img width="714" alt="Screenshot 2024-03-27 at 12 16 53 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/67130668-3e99-4a09-a580-355fbadd21d2">
+<img width="724" alt="Screenshot 2024-03-27 at 9 48 18 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/5eb1e888-107f-42f6-b745-8c5b9da9db23">
 
-<img width="711" alt="Screenshot 2024-03-27 at 12 17 13 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/013e91ba-23d9-4345-b391-d515ae20fd42">
+<img width="717" alt="Screenshot 2024-03-27 at 9 46 10 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/361a59c4-f5da-499c-9b0e-ae4fb7ec79df">
+
 
 <img width="718" alt="Screenshot 2024-03-27 at 12 17 51 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/41c1a203-bb1e-40ed-acc2-045219d36313">
 
 <img width="709" alt="Screenshot 2024-03-27 at 12 18 13 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/49f9f7f0-57f3-40f1-bc10-38442b0de8b1">
 
-<img width="707" alt="Screenshot 2024-03-27 at 12 18 48 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/7a471d51-32b5-4903-a163-e2807a2004c0">
+<img width="716" alt="Screenshot 2024-03-27 at 9 46 51 PM" src="https://github.com/Rohank66/MIST4610-GP-1/assets/104539792/2aa9fc6a-b752-4bbf-b44e-1f4fe55e63f9">
 
 
 ## Queries:
@@ -133,5 +134,3 @@ Query 10 allows managers to see which head coaches are being paid more than aver
 
 Name of the database: ns_Sp24_61608_Group7
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
-CALL TP_Q1();
